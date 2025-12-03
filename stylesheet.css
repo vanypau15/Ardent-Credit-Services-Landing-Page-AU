@@ -30,6 +30,14 @@ body {
     display: block;
 }
 
+.coming-soon {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #8e0a3b; /* burgundy */
+    margin-left: auto; /* pushes text to the right */
+}
+
+
 /* ------------ Hero Section ------------ */
 .hero-section {
     position: relative;            /* needed for absolute icons */
